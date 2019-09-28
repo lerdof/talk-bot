@@ -1,1 +1,1 @@
-worker:node talkbot.js
+worker:node talk-bot.js
